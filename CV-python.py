@@ -1,0 +1,1 @@
+print("CURRICULUM VITAE","Nume: Rodion Balaniuc","Data si locul nasterii: 26.04.2004","E-mail: qwerodia@gmail.com" , "Telefon: 1233321", "Adresa: Calea Iesilor,Balti","Nationalitate: moldovean","Studii: I.P.L.T ,Mihai Eminescu' ", "Limbi straine: engleza,germana,rusa","Alte aptitudini: responsabil,anbitios", "Hobby: sport,programare,videoedit", sep="\n")
